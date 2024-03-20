@@ -1,0 +1,17 @@
+streamlit
+pandas
+matplotlib
+pillow
+st_pages
+scikit-learn
+plotly
+spotipy
+requests
+seaborn
+wikipedia
+numpy
+cohere
+streamlit-extras
+streamlit_option_menu
+ai21
+lyricsgenius
