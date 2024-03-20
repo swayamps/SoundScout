@@ -1,0 +1,2 @@
+# SoundScout
+Music Analysis Website
